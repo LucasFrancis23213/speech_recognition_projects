@@ -1,2 +1,2 @@
-emotion_detection/azure_config.py
+speech_to_text/azure_config.py
 */__pycache__/
